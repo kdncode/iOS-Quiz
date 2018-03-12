@@ -1,2 +1,3 @@
 # iOS-Quiz
-iOS Application: Quiz App
+Simple iOS Application: Quiz App
+

@@ -223,6 +223,4 @@ class ViewController: UIViewController {
         RandomQuestions()
         Hide()
     }
-
 }
-

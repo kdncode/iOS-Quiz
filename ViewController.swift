@@ -150,10 +150,7 @@ class ViewController: UIViewController {
             
             
             break
-
-
-
-            
+          
         default:
             
             break
@@ -173,9 +170,6 @@ class ViewController: UIViewController {
         Next.isHidden = false
     }
     
-    
-    
-
     
     @IBAction func Button1Action(_ sender: Any) {
         Unhide()

@@ -120,8 +120,7 @@ class ViewController: UIViewController {
             Button3.setTitle("California", for: UIControlState.normal)
             Button4.setTitle("Florida", for: UIControlState.normal)
             CorrectAnswer = "1"
-            
-            
+         
             break
             
         case 8:
@@ -132,8 +131,7 @@ class ViewController: UIViewController {
             Button3.setTitle("Stew", for: UIControlState.normal)
             Button4.setTitle("Cattle", for: UIControlState.normal)
             CorrectAnswer = "2"
-            
-            
+        
             break
             
         case 9:
@@ -144,8 +142,7 @@ class ViewController: UIViewController {
             Button3.setTitle("4", for: UIControlState.normal)
             Button4.setTitle("None of the above", for: UIControlState.normal)
             CorrectAnswer = "2"
-            
-            
+          
             break
           
         default:
@@ -153,8 +150,7 @@ class ViewController: UIViewController {
             break
             
         }
-        
-        
+       
     }
     
     func Hide(){

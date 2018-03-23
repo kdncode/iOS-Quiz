@@ -87,8 +87,7 @@ class ViewController: UIViewController {
             Button3.setTitle("99999", for: UIControlState.normal)
             Button4.setTitle("99009", for: UIControlState.normal)
             CorrectAnswer = "3"
-            
-            
+   
             break
             
         case 5:
@@ -99,8 +98,7 @@ class ViewController: UIViewController {
             Button3.setTitle("Hong Kong", for: UIControlState.normal)
             Button4.setTitle("Bangkok", for: UIControlState.normal)
             CorrectAnswer = "3"
-            
-            
+          
             break
 
         case 6:
@@ -111,8 +109,7 @@ class ViewController: UIViewController {
             Button3.setTitle("Perth", for: UIControlState.normal)
             Button4.setTitle("Canberra", for: UIControlState.normal)
             CorrectAnswer = "3"
-            
-            
+          
             break
 
         case 7:
